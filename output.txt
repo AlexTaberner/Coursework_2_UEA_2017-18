@@ -1,0 +1,98 @@
+OE08OQF: 900 added succesfully.
+CJ65DVB: 600 added succesfully.
+UJ12CRW: 900 added succesfully.
+KR60XNS: charged 250.
+ZM02EUX: charged 675.
+CE02ESF: charged 1125.
+JT11YMK: makeTrip failed. CustomerAccount does not exsist.
+LO17FFK: charged 450.
+GV14RRM: charged 600.
+ZR60JGI: makeTrip failed. Insufficient funds.
+GP66KQL: charged 500.
+ZR60JGI: 4000 added succesfully.
+GV14RRM: charged 600.
+QJ55HTR: charged 750.
+HQ09WIJ: charged 750.
+WQ10FZI: makeTrip failed. CustomerAccount does not exsist.
+ZR60JGI: charged 450.
+YS06ESV: charged 750.
+ZJ04XSG: charged 500.
+ZJ04XSG: charged 500.
+ZJ04XSG: 2000 added succesfully.
+TR52YTU: makeTrip failed. CustomerAccount does not exsist.
+CJ65DVB: charged 500.
+OG57MWO: makeTrip failed. CustomerAccount does not exsist.
+ZQ11PMI: makeTrip failed. CustomerAccount does not exsist.
+BB14UPJ: charged 1000.
+RD16GDY: charged 1350.
+IL12KYE: charged 500.
+BQ63HWH: makeTrip failed. CustomerAccount does not exsist.
+ZR60JGI: charged 450.
+QM17VBV: makeTrip failed. CustomerAccount does not exsist.
+ND53BHO: charged 450.
+OD14STV: charged 500.
+CJ65DVB: charged 500.
+NK62WPC: makeTrip failed. Insufficient funds.
+HE52JEL: 500 added succesfully.
+IL12KYE: charged 500.
+HI14WRW: charged 600.
+FL55YST: makeTrip failed. CustomerAccount does not exsist.
+EK02DEU: makeTrip failed. CustomerAccount does not exsist.
+JH67HRE: charged 625.
+LU16KLS: 1500 added succesfully.
+RD16GDY: charged 1350.
+HE52JEL: charged 1250.
+HE52JEL: 1000 added succesfully.
+HE57YSO: charged 500.
+NK62WPC: 15000 added succesfully.
+CI60ESO: makeTrip failed. CustomerAccount does not exsist.
+ZJ04XSG: charged 500.
+YL09PTN: charged 1350.
+VS56SYX: charged 600.
+OD14STV: charged 500.
+QJ55HTR: 900 added succesfully.
+CE02ESF: charged 1125.
+RD16GDY: makeTrip failed. Insufficient funds.
+YJ55XPM: 1000 added succesfully.
+LU16KLS: charged 500.
+TY62BSA: makeTrip failed. CustomerAccount does not exsist.
+UJ12CRW: charged 500.
+JH67HRE: makeTrip failed. Insufficient funds.
+YJ55XPM: charged 500.
+CJ65DVB: charged 500.
+HQ09WIJ: 1100 added succesfully.
+HE57YSO: charged 500.
+WZ14EWB: charged 450.
+ID08GMV: charged 500.
+ZM02EUX: charged 675.
+OZ53PUX: charged 450.
+QJ55HTR: charged 750.
+ND53BHO: 2000 added succesfully.
+VS56SYX: charged 600.
+JF15BCM: charged 500.
+QJ55HTR: charged 750.
+ZD04UKP: makeTrip failed. Insufficient funds.
+ZD04UKP: 1500 added succesfully.
+ZD04UKP: charged 1500.
+ZM02EUX: charged 675.
+WZ14EWB: charged 450.
+ES66WHE: makeTrip failed. CustomerAccount does not exsist.
+VB58LNG: makeTrip failed. CustomerAccount does not exsist.
+NK62WPC: charged 500.
+KY09MDZ: charged 1000.
+KR60XNS: charged 250.
+YJ55XPM: charged 500.
+HC17NRJ: charged 500.
+HH01VMY: makeTrip failed. CustomerAccount does not exsist.
+KY09MDZ: makeTrip failed. Insufficient funds.
+CJ65DVB: charged 500.
+FM66JPE: charged 1125.
+NK62WPC: charged 500.
+CB13IIZ: charged 300.
+GV14RRM: charged 600.
+ZM02EUX: charged 675.
+JF15BCM: 1000 added succesfully.
+JF15BCM: charged 500.
+KY09MDZ: makeTrip failed. Insufficient funds.
+VS56SYX: charged 600.
+This toll road has made a revenue of 39400.
